@@ -1,0 +1,32 @@
+.belownav {
+    margin-top: 70px;
+    margin-left: 0px;
+    
+}
+
+.navbar{
+    background-color: lightgray;
+}
+
+.jerricks-navbar{
+    background-color: lightgray;
+}
+
+.jerrick-item:hover{
+    text-decoration: none !important;
+    background-color: lightgray;
+
+
+}
+
+.jerrick-item {
+    display: block;
+    width: 100%;
+    padding: .25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
